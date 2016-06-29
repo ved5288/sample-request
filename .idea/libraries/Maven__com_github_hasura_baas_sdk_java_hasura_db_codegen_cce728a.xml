@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.hasura.baas-sdk-java:hasura-db-codegen:cce728a">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/hasura/baas-sdk-java/hasura-db-codegen/cce728a/hasura-db-codegen-cce728a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/hasura/baas-sdk-java/hasura-db-codegen/cce728a/hasura-db-codegen-cce728a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/hasura/baas-sdk-java/hasura-db-codegen/cce728a/hasura-db-codegen-cce728a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

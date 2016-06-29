@@ -1,0 +1,8 @@
+package com.project.db;
+
+import com.project.db.tables.*;
+
+public class Tables {
+    public static final Users USERS = com.example.vedant.firstapplication.db.tables.Users.USERS;
+
+}
